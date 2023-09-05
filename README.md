@@ -6,8 +6,8 @@
 [Tecnologioa utilizadas](#tecnologioa-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
-# 🚀Projeto - portifolio para escrita do README
-
+# 🚀Projeto- portífolio para escrita do Readme.
+![image](img/CAPA.png)
 ## 📋Descrição 
 
 ## 🛠️Funcionalidades
