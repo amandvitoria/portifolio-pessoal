@@ -8,6 +8,7 @@
 [Autores](#autores)  
 # 🚀Projeto- portífolio para escrita do Readme.
 ![image](img/CAPA.png)
+
 ## 📋Descrição 
 
 ## 🛠️Funcionalidades
