@@ -9,7 +9,7 @@
 
 # 🚀Projeto- portífolio para escrita do Readme.
 
-![image](img/CAPA.png)
+![image](IMG/CAPA.png)
 
 ## 📋Descrição 
 
