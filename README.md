@@ -12,13 +12,21 @@
 ![image](IMG/CAPA.png)
 
 ## 📋Descrição 
-
-teste
+Projeto usado durante as aulas para fazer um README e tambem utilizando Bootstrap de exemplo de página.
 
 ## 🛠️Funcionalidades
-
+Modelo de pagina iniciais basica e bonita  
 ### ⌨️Tecnologioa utilizadas
-
+Foi utilizado: 
+. github  
+. VScode  
+. HTML  
+. CSS  
+. Bootstrap  
 ## 🔩Fontes consultadas
-
+Bootstrap
 ## ✒️Autores
+Amanda vitoria
+[Github](https://github.com/amandvitoria)  
+Leonardo Rocha  
+@mdo
