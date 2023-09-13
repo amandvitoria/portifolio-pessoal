@@ -15,7 +15,7 @@
 Projeto usado durante as aulas para fazer um README e tambem utilizando Bootstrap de exemplo de página.
 
 ## 🛠️Funcionalidades
-Modelo de pagina iniciais basica e bonita  
+Modelo de pagina iniciais basica e bonita que tem tres funções inicio, caracteristica, e contato que trazem informações
 ### ⌨️Tecnologioa utilizadas
 Foi utilizado: 
 . github  
@@ -23,8 +23,9 @@ Foi utilizado:
 . HTML  
 . CSS  
 . Bootstrap  
-## 🔩Fontes consultadas
-Bootstrap
+## 🔩Fontes consultada
+[bootstrap](https://getbootstrap.com/)
+[Exemplo de como escrever um READM:]()
 ## ✒️Autores
 Amanda vitoria
 [Github](https://github.com/amandvitoria)  
